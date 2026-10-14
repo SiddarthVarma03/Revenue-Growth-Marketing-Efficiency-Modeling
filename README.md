@@ -1,4 +1,5 @@
-# Marketing-Mix-Modelling-MMM-Case-Study
+# Revenue Growth & Marketing Efficiency Modeling
+
 From Measurement to Decision: Optimising Programme Registrations with Meridian MMM
 
 # Executive Summary
